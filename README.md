@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TanvirAlamSyed1
-- 👀 I’m interested in Machine Learning , Software Engineering and Cloud Engineering
+- 👀 I’m interested in Software Engineering, Data Analysis and Mobile Development
 - 🌱 I’m currently an Undergraduate Student at the Manchester Metroplitan University for Computer Science
 - 💞️ I’m looking to collaborate on any project that will build my skills as a programmer
 - 📫 How to reach me:
