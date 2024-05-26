@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanvirAlamSyed1
-- 👀 I’m interested in Software Engineering, Data Analysis and Mobile Development
-- 🌱 I’m currently an Undergraduate Student at the Manchester Metroplitan University for Computer Science
+- 👀 I’m interested in Backend Engineering and Cloud Architecture.
+- 🌱 I’m currently an Undergraduate Student at the Manchester Metroplitan University for Computer Science, and completed an Industrial Year with JLR
 - 💞️ I’m looking to collaborate on any project that will build my skills as a programmer
 - 📫 How to reach me:
 - - https://www.linkedin.com/in/tanvir-alam-syed/
